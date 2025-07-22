@@ -37,6 +37,4 @@ Dataset Used: ipl_data.csv
 * non-striker - batsman playing as runner up - not main 0
 * total - total score (target variable)
 
-**Streamlit App:**
 
-![](https://github.com/zep-analytics/IPLScorePredictor/blob/main/streamlit_app/ipl_score_predictor.gif)
