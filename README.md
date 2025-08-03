@@ -29,7 +29,7 @@ This project combines traditional machine learning with explainable AI (XAI) to 
 - 🎯 **Force Plot**: Breakdown of base score vs adjustments  
 - 💡 **Key Insights**: Cricket-specific analysis with confidence indicators  
 
-<<<<<<< HEAD
+
 ---
 
 ## 🛠 Technical Architecture
