@@ -1,7 +1,16 @@
-numpy==1.23.5
-streamlit==1.16.0
-matplotlib==3.6.3
-pandas==1.5.2
-scikit_learn==1.2.0
-seaborn==0.12.2
+# Core Data Science
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.2.0
+
+# Machine Learning Models  
 xgboost==1.7.3
+
+# Explainable AI
+shap==0.48.0
+
+# Visualization
+matplotlib==3.6.3
+
+# Web Framework
+streamlit==1.47.1
