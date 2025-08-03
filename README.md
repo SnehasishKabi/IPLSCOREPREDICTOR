@@ -29,6 +29,7 @@ This project combines traditional machine learning with explainable AI (XAI) to 
 - 🎯 **Force Plot**: Breakdown of base score vs adjustments  
 - 💡 **Key Insights**: Cricket-specific analysis with confidence indicators  
 
+<<<<<<< HEAD
 ---
 
 ## 🛠 Technical Architecture
@@ -64,3 +65,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 streamlit run ipl_score_predictor.py
+=======
+
+>>>>>>> b9c06040097d495039a1a9b131f2d52ffb9bb7e5
